@@ -1,0 +1,6 @@
+.recipes{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
